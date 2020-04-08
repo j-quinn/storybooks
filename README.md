@@ -1,7 +1,11 @@
 # storybooks
 
-This is the output of the tutorial "Node.js, Express & MongoDB Dev to Deployment" by @bradtraversy hosted at https://www.udemy.com/course/draft/1358300/
+This is the output of the tutorial "React Front to Back" by @bradtraversy hosted at https://www.udemy.com/course/modern-react-front-to-back/
 
-My project is hosted at https://mysterious-sands-33032.herokuapp.com
+My project is hosted at https://secure-island-92989.herokuapp.com/
 
-In addition to presenting Node.js, Express, and MongoDB, the tutorial also used the Handlebars framework and the Google OAuth 2.0 API.
+This tutorial covered the MERN stack with focus on:
+- creation of REST API using Node.js, 
+- interface with MongoDB using mongoose, 
+- creation of routes using express.Router
+- creation of a front-end client using React and React Context
